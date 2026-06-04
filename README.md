@@ -1,5 +1,13 @@
 # 🛡️ ShadowSentinel — Network Intrusion Detection System
 
+![Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-blue?style=for-the-badge)
+
+
+## 🚀 Live Demo
+
+**[View Demo](https://mayank-dev-15.github.io/shadowsentinel-demo)** — hosted on GitHub Pages
+
+
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
